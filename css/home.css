@@ -1,0 +1,50 @@
+.card{
+  width: 18rem;
+  margin: 10px;
+  padding: 10px;
+  background-color: #e2e2e2 !important;
+  border: 1px solid rgb(226 226 226)!important;
+}
+
+.card img {
+  width: 266px;
+  height: 177px;
+}
+
+.row{
+  justify-content: center;
+}
+
+.btn-dark {
+  border: none;
+  background-color: #311f0e;
+  color: #FFF;
+}
+
+.btn-dark:hover {
+  background-color: #6d441d!important;
+}
+
+.btnslide{
+  background-color: #6d441d!important;
+}
+
+#carouselExampleCaptions{
+  width: 50% !important;
+  margin-top: 10px !important;
+}
+
+#home{
+  margin-bottom: 100px;
+}
+.carousel-caption{
+  background: #00000087;
+}
+
+.carousel-caption h5{
+  color: #ffffff;
+}
+
+.d-block{
+  height: 363px;
+}

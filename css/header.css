@@ -1,0 +1,30 @@
+
+body {background-color: #5d3b1a70 !important;}
+
+.header{
+  max-width: 100% !important;
+  background: #6d441d!important;
+}
+
+.bg-light{
+  background: #6d441d!important;
+  flex-direction: column;
+  display: flex;
+}
+
+.navbar-nav li{
+  padding: 13px;
+}
+
+.nav-link{
+  color: #FFF !important;
+}
+
+.collapse{
+  border-top: 4px solid #311f0e;
+}
+
+#carrosel{
+  color: #f0f8ff;
+  color: white; text-shadow: black 0.1em 0.1em 0.2em
+}

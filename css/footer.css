@@ -1,0 +1,20 @@
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #5d3b1a;
+  color: white;
+  text-align: center;
+}
+
+.div-footer{
+  padding: 10px;
+  font-size: 15px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.div-footer p{
+  margin: 0;
+}

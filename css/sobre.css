@@ -1,0 +1,22 @@
+#sobre h2{
+  color: #311f0e;
+  text-align: center;
+  margin: 35px;
+}
+
+.sobreRow{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#sobre h5{
+  color: #311f0e;
+  text-align: center;
+}
+
+#sobre p{
+  text-align: center;
+}
+#sobre img{
+  text-align: center;
+}
